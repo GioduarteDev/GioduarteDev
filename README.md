@@ -1,3 +1,4 @@
+![banner](./design.png)
 <div align="center">
 
 # ✦ oi, eu sou a Gio ✦
