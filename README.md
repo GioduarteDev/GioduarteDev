@@ -1,83 +1,113 @@
 ![banner](./design.png)
+
 <div align="center">
 
 # ✦ oi, eu sou a Gio ✦
 
-### Engenharia de Software ✦ systems ✦ interfaces  ✦ experiments
+### Engenharia de Software ✦ systems ✦ interfaces ✦ experiments
 
-`code` ✦ `create` ✦ `learn` ✦ 
+`code` ✦ `create` ✦ `learn`
 
 </div>
+
+---
+
 ## about this place
+
+I study Software Engineering and keep this space as an archive of things I wanted to understand badly enough to build.
+
+Systems, interfaces, experiments, unfinished ideas, accidental rabbit holes.
+
+Some of it is useful. Some of it is just interesting. That is usually reason enough.
+
+<br>
+
 <table>
 <tr>
-<td width="52%">
+
+<td width="50%" align="center">
 <pre>
-          .       *        .
-     *         .                         .       *
-              *                    .
-                    .-""""""-.
-                 .-'          '-.
-               .'                '.
-              /                    \
-             ;          .           ;
-             |                      |
-             ;                      ;
-              \                    /
-           _.-'`-              .-'`-._
-      _.-'        `-.________.-'        '-.
-  /                                            \
- ;                                              ;
-  \                                            /
-   '-._                                    _.-'
-       `--..__________________________..--'
-                
+        ~+
 
-        *                                  .
-                     .            *  .
+                 *       +
+           '                  |
+       ()    .-.,="``"=.    - o -
+             '=/_       \     |
+          *   |  '=._    |
+               \     `=./`,        '
+            .   '=.__.=' `='      *
+   +                         +
+        O      *        '       .
+jgs
 </pre>
-  <div align="center">
-<div align="center">
-  <img src="./ascii-flower.png" alt="ASCII flower" width="520">
-</div>
-
-<sub>an idea, recursively becoming something else</sub>
-</div>
 </td>
 
-<td width="48%">
+<td width="50%" align="center">
+<pre>
+          |
+          |   .
+   `.  *  |     .'
+     `. ._|_* .'  .
+   . * .'   `.  *
+-------|     |-------
+   .  *`.___.' *  .
+      .'  |* `.  *
+    .' *  |  . `.
+        . |
+          | jgs
+</pre>
+</td>
+
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
 <pre>
 [ PERSONAL LAB / SIGNAL 01 ]
 
-systems        active
-interfaces     active
-experiments    ongoing
+systems          active
+interfaces       active
+experiments      ongoing
+
+signal           stable
+curiosity        persistent
 
 status:
 following whatever is interesting
 </pre>
-</td>
-</tr>
-</table>
 
-I study Software Engineering and use this space as a cabinet for things I build, break, redesign, overthink and eventually understand.
+</div>
 
-Some projects are serious.  
-Some started because I got curious .  
-Most are probably somewhere in between.
+<br>
 
-<sub>
-making things because I like seeing ideas become real.
-</sub>
+<div align="center">
+
+<img src="./Flor%20ASCII%20Art.jpg" alt="ASCII flower" width="500">
+
+<sub>an idea, recursively becoming something else</sub>
+
+</div>
+
+<br>
+
+---
+
 ## currently orbiting
 
 `backend systems` · `databases` · `data` · `machine learning` · `interfaces`
 
 ```text
 python
+Java
 postgresql
 apis
 react
 data
 automation
+IA
+
 things that seemed like a good idea
+```
