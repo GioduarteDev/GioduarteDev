@@ -4,6 +4,11 @@
 
 # ✦ oi, eu sou a Gio ✦
 
+<img
+src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=15&duration=2600&pause=500&color=9FC6A0&center=true&vCenter=true&multiline=true&repeat=false&width=720&height=90&lines=backend+systems+%7C+APIs+%7C+databases+%7C+automation;data+%2B+machine+learning+%7C+AI+%7C+experiments;interfaces+%7C+React+%7C+%7C+Postman+%7C"
+alt="typing introduction"
+/>
+
 ### Engenharia de Software ✦ systems ✦ interfaces ✦ experiments
 
 `code` ✦ `create` ✦ `learn`
@@ -14,8 +19,7 @@
 
 ## sobre este lugar
 
-Estudo Engenharia de Software, com sólida base em programação, automação e implementação de APIs. Mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.
-Crio aplicações automatizadas voltadas à otimização e melhoria das experiências com o usuário.
+Estudo Engenharia de Software e mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.
 
 Sistemas, interfaces, experimentos, ideias inacabadas, caminhos inesperados.
 
@@ -126,8 +130,9 @@ following whatever is interesting
 
 outer orbit:
 
-java        docker        git
-github      testing       security
+java          docker       git
+github        postman      figma
+testing       security     CI/CD
 </pre>
 
 </td>
@@ -137,8 +142,17 @@ github      testing       security
 <br>
 
 <img
-src="https://skillicons.dev/icons?i=python,java,js,fastapi,postgres,react,html,css,docker,git,github,vscode&theme=dark&perline=4"
+src="https://skillicons.dev/icons?i=python,java,js,fastapi,postgres,react,html,css,docker,git,github,vscode,figma,githubactions&theme=dark&perline=4"
 alt="technology stack"
+/>
+
+<br><br>
+
+<img
+src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg"
+alt="Postman"
+width="48"
+height="48"
 />
 
 <br><br>
@@ -168,6 +182,9 @@ testing                  QA
 security                 APIs
 backend systems          CI/CD
 
+postman                  figma
+github actions           docker
+
 status:
 collecting tools, building depth
 </pre>
@@ -180,7 +197,9 @@ collecting tools, building depth
 
 `Python` · `Java` · `JavaScript` · `PostgreSQL` · `FastAPI` · `APIs` · `React`
 
-`Docker` · `Git` · `GitHub` · `HTML` · `CSS` · `Testing` · `Security`
+`Docker` · `Git` · `GitHub` · `GitHub Actions` · `Postman` · `Figma`
+
+`HTML` · `CSS` · `Testing` · `Security` · `QA` · `CI/CD`
 
 `Data` · `Machine Learning` · `AI` · `Automation`
 
@@ -404,6 +423,7 @@ react
 javascript
 html
 css
+figma
 
 status:
 in progress
@@ -437,7 +457,7 @@ in progress
 
 → database design
 
-→ API development
+→ API development + Postman
 
 → data analysis
 
@@ -447,9 +467,11 @@ in progress
 
 → automation
 
-→ interface development
+→ React interfaces + Figma
 
 → testing
+
+→ Docker + CI/CD
 
 status:
 ...
