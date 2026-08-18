@@ -14,7 +14,8 @@
 
 ## sobre este lugar
 
-Estudo Engenharia de Software e mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.
+Estudo Engenharia de Software, com sólida base em programação, automação e implementação de APIs. Mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.
+Crio aplicações automatizadas voltadas à otimização e melhoria das experiências com o usuário.
 
 Sistemas, interfaces, experimentos, ideias inacabadas, caminhos inesperados.
 
