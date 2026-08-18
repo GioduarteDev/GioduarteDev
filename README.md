@@ -9,6 +9,56 @@
 
 </div>
 ## about this place
+<table>
+<tr>
+<td width="52%">
+<pre>
+          .       *        .
+     *         .                         .       *
+              *                    .
+                    .-""""""-.
+                 .-'          '-.
+               .'                '.
+              /                    \
+             ;          .           ;
+             |                      |
+             ;                      ;
+              \                    /
+           _.-'`-              .-'`-._
+      _.-'        `-.________.-'        '-.
+  /                                            \
+ ;                                              ;
+  \                                            /
+   '-._                                    _.-'
+       `--..__________________________..--'
+                
+
+        *                                  .
+                     .            *  .
+</pre>
+  <div align="center">
+<div align="center">
+  <img src="./ascii-flower.png" alt="ASCII flower" width="520">
+</div>
+
+<sub>an idea, recursively becoming something else</sub>
+</div>
+</td>
+
+<td width="48%">
+<pre>
+[ PERSONAL LAB / SIGNAL 01 ]
+
+systems        active
+interfaces     active
+experiments    ongoing
+
+status:
+following whatever is interesting
+</pre>
+</td>
+</tr>
+</table>
 
 I study Software Engineering and use this space as a cabinet for things I build, break, redesign, overthink and eventually understand.
 
