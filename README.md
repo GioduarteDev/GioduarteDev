@@ -1,16 +1,32 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GioduarteDev/GioduarteDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ✦ oi, eu sou a Gio ✦
 
-Here are some ideas to get you started:
+### Engenharia de Software ✦ systems ✦ interfaces  ✦ experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+`code` ✦ `create` ✦ `learn` ✦ 
+
+</div>
+## about this place
+
+I study Software Engineering and use this space as a cabinet for things I build, break, redesign, overthink and eventually understand.
+
+Some projects are serious.  
+Some started because I got curious .  
+Most are probably somewhere in between.
+
+<sub>
+making things because I like seeing ideas become real.
+</sub>
+## currently orbiting
+
+`backend systems` · `databases` · `data` · `machine learning` · `interfaces`
+
+```text
+python
+postgresql
+apis
+react
+data
+automation
+things that seemed like a good idea
