@@ -66,17 +66,17 @@ jgs
 <div align="center">
 
 <pre>
-[ LABORATÓRIO PESSOAL / SINAL 01 ]
+[ PERSONAL LAB / SIGNAL 01 ]
 
-sistemas          ativos
-interfaces        ativas
-experimentos      em andamento
+systems          active
+interfaces       active
+experiments      ongoing
 
-sinal             estável
-curiosidade       persistente
+signal           stable
+curiosity        persistent
 
 status:
-seguindo o que parecer interessante
+following whatever is interesting
 </pre>
 
 </div>
@@ -87,7 +87,7 @@ seguindo o que parecer interessante
 
 <img src="./Flor%20ASCII%20Art.jpg" alt="ASCII flower" width="500">
 
-<sub>uma ideia, recursivamente se tornando outra coisa</sub>
+<sub>an idea, recursively becoming something else</sub>
 
 </div>
 
@@ -103,10 +103,10 @@ seguindo o que parecer interessante
 <td width="56%" valign="top">
 
 <pre>
-[ MAPA DE ÓRBITA / SINAL 02 ]
+[ ORBIT MAP / SIGNAL 02 ]
 
 
-                    dados
+                    data
                      ○
                      |
                      |
@@ -120,13 +120,13 @@ seguindo o que parecer interessante
                   backend
                   /     \
                  /       \
-       postgresql ○       ○ automação
+       postgresql ○       ○ automation
 
 
-órbita externa:
+outer orbit:
 
 java        docker        git
-github      testes        segurança
+github      testing       security
 </pre>
 
 </td>
@@ -142,7 +142,7 @@ alt="technology stack"
 
 <br><br>
 
-<sub>as ferramentas entram em órbita quando alguma ideia precisa delas</sub>
+<sub>tools enter the orbit when an idea needs them</sub>
 
 </td>
 
@@ -154,21 +154,21 @@ alt="technology stack"
 <div align="center">
 
 <pre>
-[ DADOS + INTELIGÊNCIA / ÓRBITA PROFUNDA ]
+[ DATA + INTELLIGENCE / DEEP ORBIT ]
 
-análise de dados         machine learning
-inteligência artificial automação
-visualização de dados   bancos de dados
+data analysis            machine learning
+artificial intelligence  automation
+data visualization       databases
 
-power bi                power query
-DAX                     excel
+power bi                 power query
+DAX                      excel
 
-testes                  QA
-segurança               APIs
-sistemas backend        CI/CD
+testing                  QA
+security                 APIs
+backend systems          CI/CD
 
 status:
-colecionando ferramentas, aprofundando conhecimento
+collecting tools, building depth
 </pre>
 
 </div>
@@ -179,9 +179,9 @@ colecionando ferramentas, aprofundando conhecimento
 
 `Python` · `Java` · `JavaScript` · `PostgreSQL` · `FastAPI` · `APIs` · `React`
 
-`Docker` · `Git` · `GitHub` · `HTML` · `CSS` · `Testes` · `Segurança`
+`Docker` · `Git` · `GitHub` · `HTML` · `CSS` · `Testing` · `Security`
 
-`Dados` · `Machine Learning` · `AI` · `Automação`
+`Data` · `Machine Learning` · `AI` · `Automation`
 
 `Power BI` · `Power Query` · `DAX` · `Excel`
 
@@ -191,11 +191,11 @@ colecionando ferramentas, aprofundando conhecimento
 
 ---
 
-## telemetria
+## telemetry
 
 <div align="center">
 
-<sub>[ SINAL 03 / TELEMETRIA DO GITHUB ]</sub>
+<sub>[ SIGNAL 03 / GITHUB TELEMETRY ]</sub>
 
 <br><br>
 
@@ -255,7 +255,7 @@ alt="Productive time"
 
 <br>
 
-<sub>[ SINAL 04 / RASTRO DE ATIVIDADE ]</sub>
+<sub>[ SIGNAL 04 / ACTIVITY TRACE ]</sub>
 
 <br><br>
 
@@ -267,24 +267,24 @@ alt="Recent transmissions"
 
 <br>
 
-<sub>a atividade deixa rastros.</sub>
+<sub>activity leaves traces.</sub>
 
 <br><br><br>
 
-<sub>[ SINAL 05 / SINAL DE ESTUDO ]</sub>
+<sub>[ SIGNAL 05 / STUDY SIGNAL ]</sub>
 
 <br><br>
 
 <pre>
-[ TELEMETRIA DE CÓDIGO AO VIVO ]
+[ LIVE CODING TELEMETRY ]
 
-wakatime          conectado
-tempo programando coletando dados
-média diária      coletando dados
-linguagens        coletando dados
+wakatime          connected
+coding time       collecting data
+daily average     collecting data
+languages         collecting data
 
-fonte:
-atividade no editor / tempo real de estudo
+source:
+editor activity / real study time
 </pre>
 
 <br>
@@ -297,33 +297,23 @@ atividade no editor / tempo real de estudo
 
 ---
 
-## vida selvagem das contribuições
+## contribution trace
 
 <div align="center">
 
-<sub>[ SINAL 06 / RASTRO DA SNAKE ]</sub>
+<sub>[ SIGNAL 06 / SNAKE TRACE ]</sub>
 
 <br><br>
 
-<pre>
-             campo de contribuições detectado
-
-        ·    ·       ·    ·       ·
-    ·       ·   ·        ·    ·
-
-                   ╭─────╮
-                   │ ◇ ◇ │
-                   ╰──┬──╯
-                      │
-               aguardando movimento...
-
-        sistema de geração da snake
-        aguardando ativação
-</pre>
+<img
+src="https://raw.githubusercontent.com/GioduarteDev/GioduarteDev/output/github-contribution-grid-snake.svg"
+alt="snake animation"
+width="100%"
+/>
 
 <br>
 
-<sub>alguma coisa eventualmente vai começar a devorar esse grid.</sub>
+<sub>something finally started eating the grid.</sub>
 
 </div>
 
@@ -331,11 +321,11 @@ atividade no editor / tempo real de estudo
 
 ---
 
-## arquivo de projetos
+## project archive
 
 <div align="center">
 
-<sub>[ REGISTRO DE EXPERIMENTOS / ARQUIVO 01 ]</sub>
+<sub>[ EXPERIMENT LOG / ARCHIVE 01 ]</sub>
 
 </div>
 
@@ -349,7 +339,7 @@ atividade no editor / tempo real de estudo
 <pre>
 [ 001 ]
 
-sistemas backend
+backend systems
 
 python
 fastapi
@@ -357,7 +347,7 @@ postgresql
 APIs
 
 status:
-evoluindo
+evolving
 </pre>
 
 </td>
@@ -367,7 +357,7 @@ evoluindo
 <pre>
 [ 002 ]
 
-experimentos com dados
+data experiments
 
 python
 power bi
@@ -375,7 +365,7 @@ power query
 DAX
 
 status:
-coletando evidências
+collecting data
 </pre>
 
 </td>
@@ -389,15 +379,15 @@ coletando evidências
 <pre>
 [ 003 ]
 
-laboratório de inteligência
+intelligence lab
 
 machine learning
 AI
-automação
-dados
+automation
+data
 
 status:
-em construção
+in progress
 </pre>
 
 </td>
@@ -407,7 +397,7 @@ em construção
 <pre>
 [ 004 ]
 
-estudos de interface
+interface studies
 
 react
 javascript
@@ -415,7 +405,7 @@ html
 css
 
 status:
-sendo montado
+in progress
 </pre>
 
 </td>
@@ -427,7 +417,7 @@ sendo montado
 
 <div align="center">
 
-<sub>projetos viram registros quando a curiosidade sobrevive tempo suficiente.</sub>
+<sub>projects become records when curiosity lasts long enough.</sub>
 
 </div>
 
@@ -435,30 +425,30 @@ sendo montado
 
 ---
 
-## experimentos atuais
+## current experiments
 
 <div align="center">
 
 <pre>
-[ NOTAS DE CAMPO / SINAL ATUAL ]
+[ FIELD NOTES / CURRENT SIGNAL ]
 
-→ fortalecendo arquitetura backend
+→ backend architecture
 
-→ fazendo bancos de dados 
+→ database design
 
-→ construindo APIs 
+→ API development
 
-→ explorando análise de dados
+→ data analysis
 
-→ experimentando machine learning
+→ machine learning
 
-→ entendendo onde AI realmente é útil
+→ AI experiments
 
-→ automatizando coisas repetitivas
+→ automation
 
-→ construindo interfaces para os sistemas que existem por baixo
+→ interface development
 
-→ testando coisas antes que virem bugs misteriosos
+→ testing
 
 status:
 ...
@@ -475,15 +465,15 @@ status:
 <div align="center">
 
 <pre>
-[ CANAIS EXTERNOS ]
+[ OUTBOUND CHANNELS ]
 
 github        GioduarteDev
 linkedin      Giovanna Duarte
-portfólio     em construção
-Instagram   sinal pendente
+portfolio     under construction
+instagram     signal pending
 
-rotas de contato:
-expandindo junto com o sistema
+contact routes:
+expanding with the system
 </pre>
 
 </div>
@@ -497,8 +487,8 @@ expandindo junto com o sistema
 <pre>
 [ END OF TRANSMISSION ]
 
-sinal         online
-sistema       evoluindo
+signal        online
+system        evolving
 next idea     probably already open in another tab
 </pre>
 
