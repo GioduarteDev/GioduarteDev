@@ -19,10 +19,8 @@ alt="typing introduction"
 
 ## sobre este lugar
 
-Estudo Engenharia de Software e mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.
-
-Sistemas, interfaces, experimentos, ideias inacabadas, caminhos inesperados.
-
+Estudo Engenharia de Software e mantenho este espaço como um arquivo das coisas que eu quis entender o suficiente para acabar construindo.Sólido conhecimento em programação, automação de processos e implementação de APIs
+Crio aplicações e sistemas automatizados voltados à otimização e melhoria da experiência do usuário.
 Algumas coisas são úteis. Outras só são interessantes. Na maior parte do tempo, isso já é motivo suficiente.
 
 <br>
