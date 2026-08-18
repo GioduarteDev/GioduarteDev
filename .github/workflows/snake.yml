@@ -24,7 +24,7 @@ jobs:
             dist/github-contribution-grid-snake.svg?color_snake=#C6A7D8&color_dots=#161B22,#45394F,#6F5D79,#9FC6A0,#C6A7D8
 
       - name: publicar snake na branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+        uses: crazy-max/ghaction-github-pages@v5
         with:
         
           target_branch: output
