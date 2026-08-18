@@ -1,0 +1,44 @@
+name: gerar snake
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+
+  workflow_dispatch:
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: gerar snake personalizada
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+          outputs: |
+            dist/github-contribution-grid-snake.svg?color_snake=#C6A7D8&color_dots=#161B22,#45394F,#6F5D79,#9FC6A0,#C6A7D8
+
+      - name: publicar snake na branch output
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+        
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+
+
+
+
+
+
+
+
+
+          
