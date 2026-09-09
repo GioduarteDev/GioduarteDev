@@ -28,41 +28,6 @@ Algumas coisas são úteis. Outras só são interessantes. Na maior parte do tem
 <table>
 <tr>
 
-<td width="50%" align="center">
-<pre>
-        ~+
-
-                 *       +
-           '                  |
-       ()    .-.,="``"=.    - o -
-             '=/_       \     |
-          *   |  '=._    |
-               \     `=./`,        '
-            .   '=.__.=' `='      *
-   +                         +
-        O      *        '       .
-jgs
-</pre>
-</td>
-
-<td width="50%" align="center">
-<pre>
-          |
-          |   .
-   `.  *  |     .'
-     `. ._|_* .'  .
-   . * .'   `.  *
--------|     |-------
-   .  *`.___.' *  .
-      .'  |* `.  *
-    .' *  |  . `.
-        . |
-          | jgs
-</pre>
-</td>
-
-</tr>
-</table>
 
 <br>
 
